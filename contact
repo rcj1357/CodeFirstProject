@@ -9,11 +9,31 @@
 <body>
   <header>
     <h1>Contact</h1>
-    <img src="dog.jpe">
+    <img src='dog.jpe'>
     <ul>
-      <li><a href="home.html">Home</a></li>
-      <li><a href="about page">Travels</a></li>
+      <li><a href='home.html'>Home</a></li>
+      <li><a href='about page'>Travels</a></li>
       <li><a href="contact">Contact</a></li>
     </ul>
   </header>
+
+  <form id='contact_form' action="#" method='POST' enctype='application/x-www-form-urlencoded'>
+    <h2> Say Hello!</h2>
+    <div class='row'>
+      <label for='name'>Your name:</label><br/>
+      <input id='name' class='input' name='name' type='text' size='40'>
+    </div>
+    </br>
+    <div class='row'>
+      <label for='email'>Your email:</label><br/>
+      <input id='email' class='input' name='email' type='text' size='40' />
+    </div>
+    </br>
+    <div class="row">
+       <label for="message">Your message:</label><br/>
+       <textarea id='message' class="input" value='Type your message here' name='message' rows='15' cols='80'></textarea>
+    </div>
+    <br/>
+    <input id="submit_button" type="submit" value="Send email" />
+  </form>         
 </body>
