@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>About - The Travelling Dog Blog</title>
+  <title>Travels - The Travelling Dog Blog</title>
   <link rel= 'stylesheet' type = 'text/css' href='about.CSS'>
   <script src="jquery.js"></script>
   <script src="about.js"></script>
@@ -8,10 +8,10 @@
 
 <body>
   <header>
-    <h1>About</h1>
+    <h1>Travels</h1>
     <ul>
       <li><a href="home.html">Home</a></li>
-      <li><a href="about page">About</a></li>
+      <li><a href="about page">Travels</a></li>
       <li><a href="contact">Contact</a></li>
     </ul>
   </header>
