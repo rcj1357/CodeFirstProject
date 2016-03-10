@@ -17,7 +17,7 @@
     }
     ul {
       padding: 10px;
-      background: rgba(0,0,0,0.5);
+      background: rgba(0,0,0,0.6);
     }
     li {
       display: inline;
@@ -27,7 +27,7 @@
     h1 {
       font-size: 50px;
       text-transform: uppercase;
-      background: rgba(0,0,0,0.5);
+      background: rgba(0,0,0,0.6);
     }
     h2 {
       text-align: center;
@@ -49,7 +49,7 @@
       max-width: 1800px;
       padding: 16px;
       margin: 0 auto;
-      background: rgba(0,0,0,0.5);
+      background: rgba(0,0,0,0.6);
     }
     @media (max-width: 500px) {
       h1 {
