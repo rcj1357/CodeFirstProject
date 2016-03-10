@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+  <title>Contact - The Travelling Dog Blog</title>
+  <link rel= 'stylesheet' type = 'text/css' href='contact.CSS'>
+  <script src="jquery.js"></script>
+  <script src="contact.js"></script>
+</head> 
+
+<body>
+  <header>
+    <h1>Contact</h1>
+    <ul>
+      <li><a href="Home">Home</a></li>
+      <li><a href="about page">About</a></li>
+      <li><a href="contact">Contact</a></li>
+    </ul>
+  </header>
+</body>
