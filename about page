@@ -18,8 +18,8 @@
   </header>
 
   <article>
-    <h2></h2>
-    <div class='apost one'>
+    <h2>Iceland</h2>
+    <div class='iceland'>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id leo dapibus, bibendum libero nec, hendrerit mi. Ut auctor interdum egestas. Donec accumsan pellentesque dolor non eleifend. Phasellus vel eros diam. Sed id pulvinar nunc. Morbi ac eleifend lacus. Mauris vehicula efficitur volutpat. Nullam id velit varius, facilisis leo dignissim, facilisis tortor. Donec convallis, mi eget pellentesque finibus, dui elit volutpat nisi, non mollis sapien dui eget mauris. Aliquam eleifend condimentum risus, in efficitur elit dapibus a. Fusce eu dui faucibus, luctus nibh id, rhoncus neque. Morbi pharetra erat ipsum, sit amet consequat leo efficitur non. Maecenas sodales lectus eu risus dapibus hendrerit. Proin id semper nulla, sed lobortis sapien. Nulla vel libero vel mi 
       </p>
       <p>Suspendisse in odio eleifend, congue orci sed, luctus nulla. Integer sed erat non turpis pharetra tempor eget nec sapien. Ut aliquam sodales dui at vestibulum. Integer mollis mattis purus eu eleifend. Cras eleifend pellentesque augue, ut gravida nulla blandit id. Sed suscipit, enim ut blandit eleifend, purus felis consectetur erat, et cursus mauris purus ut tellus. Sed sit amet sagittis risus. Maecenas vitae commodo metus, sed elementum elit. Nullam quis eros id tortor bibendum pharetra. Integer mattis nibh sed felis vestibulum semper. Sed ultrices congue dui, eu laoreet risus dignissim consectetur. Nullam turpis, feugiat ut posuere nec, sagittis sit amet justo. Quisque accumsan non mi a euismod.
@@ -29,7 +29,8 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id leo dapibus, bibendum libero nec, hendrerit mi. Ut auctor interdum egestas. Donec accumsan pellentesque dolor non eleifend. Phasellus vel eros diam. Sed id pulvinar nunc. Morbi ac eleifend lacus. Mauris vehicula efficitur volutpat. Nullam id velit varius, facilisis leo dignissim, facilisis tortor. Donec convallis, mi eget pellentesque finibus, dui elit volutpat nisi, non mollis sapien dui eget mauris. Aliquam eleifend condimentum risus, in efficitur elit dapibus a. Fusce eu dui faucibus, luctus nibh id, rhoncus neque. Morbi pharetra erat ipsum, sit amet consequat leo efficitur non. Maecenas sodales lectus eu risus dapibus hendrerit. Proin id semper nulla, sed lobortis sapien. Nulla vel libero vel mi 
       </p>
     </div>
-    <h2></h2>
+    </br>
+    <h2>America</h2>
         <div class='post two'>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id leo dapibus, bibendum libero nec, hendrerit mi. Ut auctor interdum egestas. Donec accumsan pellentesque dolor non eleifend. Phasellus vel eros diam. Sed id pulvinar nunc. Morbi ac eleifend lacus. Mauris vehicula efficitur volutpat. Nullam id velit varius, facilisis leo dignissim, facilisis tortor. Donec convallis, mi eget pellentesque finibus, dui elit volutpat nisi, non mollis sapien dui eget mauris. Aliquam eleifend condimentum risus, in efficitur elit dapibus a. Fusce eu dui faucibus, luctus nibh id, rhoncus neque. Morbi pharetra erat ipsum, sit amet consequat leo efficitur non. Maecenas sodales lectus eu risus dapibus hendrerit. Proin id semper nulla, sed lobortis sapien. Nulla vel libero vel mi 
       </p>
