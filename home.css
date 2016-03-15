@@ -20,7 +20,7 @@
       padding: 10px;
       background: rgba(0,0,0,0.6);
     }
-    li {
+    .navbar {
       display: inline;
       padding: 0px 30px 0px 30px;
       font-size: 20px;
@@ -52,6 +52,24 @@
       margin: 0 auto;
       background: rgba(0,0,0,0.6);
     }
+    button {
+      position: center;
+      text-align: center;
+      width: 80px;
+      height: 30px;
+      margin: 0 10px;
+      line-height: 20px;
+      color: white;
+      border-radius: 10px;
+      background: black;
+      cursor: pointer;
+    }
+    .social {
+      display: inline;
+      padding: 0px 30px 0px 30px;
+      font-size: 20px;
+   }
+
     @media (max-width: 500px) {
       h1 {
         font-size: 30px;
@@ -60,3 +78,5 @@
         display: block;
         padding: 5px;       
     }
+    
+
